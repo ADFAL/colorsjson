@@ -1,44 +1,42 @@
 [
-    "colors"  : [
-        {
-            "color": "red",
-            "hex": "#FF0000"
-        },
-        {
-            "color": "green",
-            "hex": "#00FF00"
-        },
-        {
-            "color": "blue",
-            "hex": "#0000FF"
-        },
-        {
-            "color": "yellow",
-            "hex": "#FFFF00"
-        },
-        {
-            "color": "cyan",
-            "hex": "#00FFFF"
-        },
-        {
-            "color": "magenta",
-            "hex": "#FF00FF"
-        },
-        {
-            "color": "black",
-            "hex": "#000000"
-        },
-        {
-            "color": "white",
-            "hex": "#FFFFFF"
-        },
-        {
-            "color": "gray",
-            "hex": "#808080"
-        },
-        {
-            "color": "orange",
-            "hex": "#FFA500"
-        }
-    ]
+    {
+        "color": "red",
+        "hex": "#FF0000"
+    },
+    {
+        "color": "green",
+        "hex": "#00FF00"
+    },
+    {
+        "color": "blue",
+        "hex": "#0000FF"
+    },
+    {
+        "color": "yellow",
+        "hex": "#FFFF00"
+    },
+    {
+        "color": "cyan",
+        "hex": "#00FFFF"
+    },
+    {
+        "color": "magenta",
+        "hex": "#FF00FF"
+    },
+    {
+        "color": "black",
+        "hex": "#000000"
+    },
+    {
+        "color": "white",
+        "hex": "#FFFFFF"
+    },
+    {
+        "color": "gray",
+        "hex": "#808080"
+    },
+    {
+        "color": "orange",
+        "hex": "#FFA500"
+    }
 ]
