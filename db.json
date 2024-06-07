@@ -1,5 +1,5 @@
 [
-    "colors"  : {
+    "colors"  : [
         {
             "color": "red",
             "hex": "#FF0000"
@@ -40,5 +40,5 @@
             "color": "orange",
             "hex": "#FFA500"
         }
-    }
+    ]
 ]
